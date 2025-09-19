@@ -1,0 +1,10 @@
+{
+  "name": "Copy of Chart Oracle AI Final 11",
+  "description": "An AI-powered trading chart analysis tool that provides insights based on selected trading strategies and uploaded chart images.",
+  "requestFramePermissions": [
+    "display-capture",
+    "microphone",
+    "clipboard-read"
+  ],
+  "prompt": ""
+}
